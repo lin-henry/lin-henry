@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Henry.</h2>
+<h2> Hey there! Thanks for visiting my profile! I'm Henry.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Curious learner that loves to explore new technologies and apply them to real world applications.
 - 🎓 &nbsp; Bachelor of Science in Finance and Economics from the University of Massachusetts Boston.
 - 💼 &nbsp; Working as a Capital Management / Treasury Analyst at Santander Bank.
-- 🌱 &nbsp; Passionate about learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Passionate about learning more about Finance and Software Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -36,7 +36,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/henry--lin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-henry--lin-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:linhenry001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-linhenry001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
