@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Curious learner that loves to explore new technologies and apply them to real world applications.
 - 🎓 &nbsp; Bachelor of Science in Finance and Economics from the University of Massachusetts Boston.
 - 💼 &nbsp; Working as a Capital Management / Treasury Analyst at Santander Bank.
-- 🌱 &nbsp; Passionate about learning more about Finance and Software Engineering.
+- 🌱 &nbsp; Passionate about Finance, Data Analytics, and Software Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
