@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Bachelor of Science in Finance and Economics from the University of Massachusetts Boston.
-- 💼 &nbsp; Working as a Capital Management / Treasury Analyst at Santander Bank.
+- 💼 &nbsp; Working as Senior FP&A Analyst for Takeda.
 - 🤔 &nbsp; Curious learner that loves to explore new technologies and apply them to real world applications.
 - 🌱 &nbsp; Passionate about Finance, Data Analytics, and Software Engineering.
 
